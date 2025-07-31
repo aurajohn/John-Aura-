@@ -1,68 +1,36 @@
-# John Aura Awuor – Food Science & Quality Assurance Portfolio
+# John Aura Awuor – Food Science & Quality Assurance Specialist
 
-Welcome to my professional portfolio showcasing my expertise in Food Science, Quality Assurance, Regulatory Compliance, and Digital Marketing for the food industry.
+Passionate about food biotechnology, quality assurance, and regulatory compliance. Experienced in molecular biology techniques, data analysis, and digital marketing strategies tailored for the food industry.
 
-🌐 **Live Portfolio:** [View My Portfolio](https://yourusername.github.io/your-repository-name/)
-
----
-
-## About Me
-
-I am a motivated Food Science and Biotechnology graduate with strong skills in enzymology, functional food development, molecular techniques, and quality assurance. I am passionate about leveraging scientific knowledge and digital tools to improve food safety, product development, and regulatory compliance.
-
----
-
-## Core Competencies
-
-- Food Biotechnology and Molecular Techniques (ELISA, RT-PCR, nucleic acid extraction)
-- Quality Assurance and Control in Food Manufacturing
-- Regulatory Compliance and Documentation Management
-- Process Optimization and Root Cause Analysis
-- Data Analysis and Reporting
-- Digital Marketing and Communications for Food Industry
-
----
-
-## Projects 
-
-- Conducted enzyme-linked immunosorbent assays and molecular biology experiments
-- Managed quality assurance activities including audits, training, and corrective actions
-- Developed nutrition plans and delivered community health education
-- Utilized data-driven approaches to improve product quality and safety
-- Created content and digital campaigns for nutritional awareness and food safety
 ## Skills & Expertise
-
 - Molecular Biology Techniques  
 - Data Analysis (Excel, GraphPad)  
 - Bioinformatics & Software Tools (BLAST, PyMOL, R)  
 - Regulatory Knowledge (GMP, ICH)  
 - Scientific Writing & Report Interpretation  
+- Quality Assurance & Process Control  
+- Digital Marketing for Food Products  
 
----
 ## Education
+- MSc Food Science and Technology Engineering, Hungarian University of Agriculture and Life Sciences  
+- BSc Food Science and Nutrition, Jomo Kenyatta University of Agriculture and Technology  
 
-- **MSc Food Science and Technology Engineering**  
-  Hungarian University of Agriculture and Life Sciences  
-  [View on LinkedIn](https://www.linkedin.com/in/john-aura-awuor-51a414188/)
+## Experience Highlights
+- Food Biotechnology Intern at Hungarian Academy of Sciences (ELISA, RT-PCR, molecular techniques)  
+- Quality Assurance Engineer at RH Devani, Kenya  
+- Nutritionist Intern at Provide International Hospital, Kenya  
 
-- **BSc Food Science and Nutrition**  
-  Jomo Kenyatta University of Agriculture and Technology  
-  [View on LinkedIn](https://www.linkedin.com/in/john-aura-awuor-51a414188/)
+## Projects
+- Characterization and Antagonistic Activity of Yeast and Bacteria from Fruits (MSc Thesis)  
+- Quality Control Improvement Initiatives in Food Production (Work Projects)  
 
-## Contact Me
-
-📧 Email: aurajohn4@gmail.com  
-📞 Phone: +36 206195319  
-📍 Budapest, Hungary
-
----
-
-I am open to collaborative projects, consulting, and freelance opportunities in food science, quality assurance, and digital marketing for food companies. Please feel free to reach out!
+## Contact
+- LinkedIn: [linkedin.com/in/yourprofile]www.linkedin.com/in/john-aura-awuor-51a414188
+- Email: aurajohn4@gmail.com  
+- GitHub: [[github.com/yourusername](https://aurajohn.github.io/John-Aura-/)  
 
 ---
 
-*This portfolio is hosted on GitHub Pages to showcase my skills and projects.*
+*Passionate about turning science into safer, better food products. Let’s connect!*
 
-
-Visit my portfolio:(https://aurajohn.github.io/John-Aura-/)
 
