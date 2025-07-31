@@ -5,5 +5,5 @@ This repository contains my professional portfolio highlighting my expertise in:
 - **Quality Assurance & Regulatory Compliance**  
 - **Food Safety & Product Development**  
 - **Digital Marketing for Food Brands**  
-
+Visit my portfolio:(https://aurajohn.github.io/John-Aura-/)
 
