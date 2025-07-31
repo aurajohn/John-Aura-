@@ -32,6 +32,15 @@ I am a motivated Food Science and Biotechnology graduate with strong skills in e
 - Created content and digital campaigns for nutritional awareness and food safety
 
 ---
+## Education
+
+- **MSc Food Science and Technology Engineering**  
+  Hungarian University of Agriculture and Life Sciences  
+  [View on LinkedIn](https://www.linkedin.com/in/john-aura-awuor-51a414188/)
+
+- **BSc Food Science and Nutrition**  
+  Jomo Kenyatta University of Agriculture and Technology  
+  [View on LinkedIn](https://www.linkedin.com/in/john-aura-awuor-51a414188/)
 
 ## Contact Me
 
