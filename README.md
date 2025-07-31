@@ -23,13 +23,20 @@ I am a motivated Food Science and Biotechnology graduate with strong skills in e
 
 ---
 
-## Projects & Skills
+## Projects 
 
 - Conducted enzyme-linked immunosorbent assays and molecular biology experiments
 - Managed quality assurance activities including audits, training, and corrective actions
 - Developed nutrition plans and delivered community health education
 - Utilized data-driven approaches to improve product quality and safety
 - Created content and digital campaigns for nutritional awareness and food safety
+## Skills & Expertise
+
+- Molecular Biology Techniques  
+- Data Analysis (Excel, GraphPad)  
+- Bioinformatics & Software Tools (BLAST, PyMOL, R)  
+- Regulatory Knowledge (GMP, ICH)  
+- Scientific Writing & Report Interpretation  
 
 ---
 ## Education
